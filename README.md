@@ -32,3 +32,6 @@ This API shows the status of the order. The response contains detailed informati
 
 ### Endpoint
 `https://cloud.toprent.app/api/public/order-status`
+
+### FAQ
+`https://docs.google.com/document/d/17QcZ19DAdUjf0UnY8v3usG8SnR0NBlhc6cfhqv80muE/edit`
